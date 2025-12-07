@@ -12,7 +12,7 @@ It comes with a **Universal One-Click Installer** so you can deploy it anywhere 
 
 ---
 
-## 🚀 Features
+##  Features:
 
 This suite is composed of three powerful specialized servers:
 
@@ -40,7 +40,7 @@ This suite is composed of three powerful specialized servers:
 
 ---
 
-## 📦 Universal Installer
+##  Universal Installer:
 
 We provide a **Universal Installer (`mcp_setup.exe`)** in the Releases section. 
 
@@ -51,7 +51,7 @@ We provide a **Universal Installer (`mcp_setup.exe`)** in the Releases section.
 4.  **Smart Config**: Automatically creates/updates your `claude_desktop_config.json` to point to the installed servers.
 5.  **Obsidian Integration**: Optional setup for your Local REST API key.
 
-### 📥 [Download v1 Release here](#)
+###  [Download v1 Release here](#):
 
 ---
 
