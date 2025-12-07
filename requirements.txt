@@ -1,0 +1,13 @@
+mcp
+httpx
+python-dotenv
+psutil
+pywifi
+comtypes
+python-whois
+uiautomation
+opencv-python
+pyautogui
+Pillow
+stegano
+pyttsx3
